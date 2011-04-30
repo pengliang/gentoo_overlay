@@ -16,7 +16,7 @@ HOMEPAGE="https://code.google.com/p/hotot/"
 
 LICENSE="LGPL-3"
 SLOT="0"
-KEYWORDS="~x86 ~amd64"
+KEYWORDS="x86"
 IUSE=""
 
 DEPEND="dev-python/python-distutils-extra"
